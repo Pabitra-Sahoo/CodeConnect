@@ -23,4 +23,24 @@ Rediscover the joy of coding with your team. CodeConnect makes collaboration sim
 
 ---
 # Tech Stacks   
-react.js
+**Frontend:**
+* React   
+* Vite   
+* Monaco Editor   
+* ESLint   
+   
+**Backend:**
+* Node.js   
+* Express   
+* Axios   
+* Socket.io   
+   
+**Package Management:**
+* npm
+     
+**Other:**
+* Git   
+* Render
+* Piston ApI
+
+   
