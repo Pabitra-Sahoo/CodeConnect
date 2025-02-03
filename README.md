@@ -100,6 +100,9 @@ Rediscover the joy of coding with your team. CodeConnect makes collaboration sim
  As it is in developement stage so there may have some kind of bugs or problems so please report us.   
  ---
  ###🌟Support Us   
- This project is licensed under the MIT Licences.
+ If you find this helpful or valuable, please consider 🌟 starring the repository. It helps us gain visibility and encourages further development.   
+ ---
+ ### License   
+ 
      
   
