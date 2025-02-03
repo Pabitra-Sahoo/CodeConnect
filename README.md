@@ -100,16 +100,16 @@ Rediscover the joy of coding with your team. CodeConnect makes collaboration sim
  As it is in developement stage so there may have some kind of bugs or problems so please report us.   
  ---
  ### 🌟Support Us    
- -
+ ----
  If you find this helpful or valuable, please consider 🌟 starring the repository. It helps us gain visibility and encourages further development.   
  ---
  ### License    
- -
+ ---
 This project is licensed under the https://github.com/Pabitra-Sahoo/CodeConnect/blob/48f760a58cda545fe57c1bf44c26f96e7008fa67/LICENSE   
 ---
 ##Developers   
 1.https://github.com/Subhasis-biswal/    
-2.linkedin.com/in/atisha04   
+2.www.linkedin.com/in/atisha04   
 3.www.linkedin.com/in/oceaneyes
  
      
