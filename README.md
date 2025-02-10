@@ -6,7 +6,7 @@ Code Together, Dream Bigger: CodeConnect
 
 # Hello, developers! 👋
 
-are Struggling with endless code reviews, version conflicts, or feeling out of sync with your team? CodeConnect is here to save the day!
+Are you! Struggling with endless code reviews, version conflicts, or feeling out of sync with your team? CodeConnect is here to save the day!
 Welcome to CodeConnect, the ultimate solution for seamless real-time collaboration. Our cutting-edge collaborative code editor is designed to empower developers and teams to work together effortlessly, no matter the distance. With CodeConnect, you can:  
 
 * Real-Time Collaboration: Work simultaneously with your team as if you're in the same room.
