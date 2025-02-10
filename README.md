@@ -142,7 +142,7 @@ Contributions are always welcome!
 - [@Pabitra](https://www.github.com/Pabitra-Sahoo)
 ---
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/oceaneyes) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:subhasisbiswal110@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/atisha04)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/oceaneyes) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/stevelied)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/atisha04)
 
 
 ## Screenshots
@@ -150,6 +150,13 @@ Contributions are always welcome!
 ![image](https://github.com/user-attachments/assets/a6decb75-a275-4c8e-bf24-488fb9e674fd)
 ![image](https://github.com/user-attachments/assets/e7dbccb6-c1f7-4d72-97e4-4b2c84edcc5a)
 ![image](https://github.com/user-attachments/assets/78622659-ede3-4e14-945a-726011cc8698)![image](https://github.com/user-attachments/assets/caf08720-9e08-446f-a9ba-1d6a2cceb052)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://visitcount.itsvg.in/api?id=dfgvb&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 
 
