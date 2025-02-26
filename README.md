@@ -132,7 +132,7 @@ Contributions are always welcome!
 
 ## License
 
-[This project is licensed under MIT]([https://github.com/Pabitra-Sahoo/CodeConnect/blob/master/LICENSE](https://github.com/Pabitra-Sahoo/CodeConnect/blob/main/LICENSE.txt))
+[This project is licensed under MIT](https://github.com/Pabitra-Sahoo/CodeConnect/blob/main/LICENSE.txt)
 
 
 ## Authors  [![Team-Seven](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://pabitra-sahoo.github.io/Code-Connect-Team/)  
