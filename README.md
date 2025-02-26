@@ -132,19 +132,15 @@ Contributions are always welcome!
 
 ## License
 
-[This project is licensed under MIT](https://github.com/Pabitra-Sahoo/CodeConnect/blob/master/LICENSE)
+[This project is licensed under MIT]([https://github.com/Pabitra-Sahoo/CodeConnect/blob/master/LICENSE](https://github.com/Pabitra-Sahoo/CodeConnect/blob/main/LICENSE.txt))
 
 
-## Authors
+## Authors  [![Team-Seven](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://pabitra-sahoo.github.io/Code-Connect-Team/)  
 
-- [@Subhasis](https://www.github.com/Subhasis-biswal)
-- [@Atisha](https://www.github.com/Atisha-Priyadarshani)
-- [@Pabitra](https://www.github.com/Pabitra-Sahoo)
+- [@Subhasis](https://www.github.com/Subhasis-biswal)    [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/stevelied)
+- [@Atisha](https://www.github.com/Atisha-Priyadarshani)    [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/atisha04)
+- [@Pabitra](https://www.github.com/Pabitra-Sahoo)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/oceaneyes)
 ---
-## 🌐 Socials:
-[![Team-Seven](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://pabitra-sahoo.github.io/Code-Connect-Team/)    
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/oceaneyes) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/stevelied)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/atisha04)
-
 
 
 ## Screenshots
