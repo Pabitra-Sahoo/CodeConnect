@@ -3,26 +3,26 @@ import "./App.css";
 import io from "socket.io-client";
 import Editor from "@monaco-editor/react";
 import { v4 as uuid } from "uuid";
-import { Toaster, toast } from 'react-hot-toast';
+import { Toaster, toast } from "react-hot-toast";
 
 const socket = io("https://codeconnect-by-team-seven.onrender.com");
 
 // Toast configuration
 const toastConfig = {
-  position: 'top-center',
+  position: "top-center",
   duration: 3000,
   style: {
-    background: 'rgba(30, 30, 45, 0.95)',
-    color: '#fff',
-    border: '1px solid rgba(123, 47, 255, 0.2)',
-    boxShadow: '0 4px 12px rgba(123, 47, 255, 0.1)',
-    backdropFilter: 'blur(10px)',
-    marginTop: '20px',
+    background: "rgba(30, 30, 45, 0.95)",
+    color: "#fff",
+    border: "1px solid rgba(123, 47, 255, 0.2)",
+    boxShadow: "0 4px 12px rgba(123, 47, 255, 0.1)",
+    backdropFilter: "blur(10px)",
+    marginTop: "20px",
   },
-  className: 'toast-message',
+  className: "toast-message",
   iconTheme: {
-    primary: '#7B2FFF',
-    secondary: '#fff',
+    primary: "#7B2FFF",
+    secondary: "#fff",
   },
 };
 
@@ -95,7 +95,7 @@ const App = () => {
     socket.on("userJoined", (users) => {
       setUsers(users);
       // Notify when a new user joins (except for the current user)
-      const newUser = users.find(user => user !== userName);
+      const newUser = users.find((user) => user !== userName);
       if (newUser) {
         toast.success(`${newUser} joined the room`, toastConfig);
       }
@@ -127,13 +127,19 @@ const App = () => {
 
     socket.on("compileError", (error) => {
       setOutPut(`Error: ${error.message || "Something went wrong"}`);
-      toast.error(`Error: ${error.message || "Something went wrong"}`, toastConfig);
+      toast.error(
+        `Error: ${error.message || "Something went wrong"}`,
+        toastConfig
+      );
       setIsRunning(false);
     });
 
     socket.on("disconnect", () => {
       setOutPut("Lost connection to server. Please refresh the page.");
-      toast.error("Lost connection to server. Please refresh the page.", toastConfig);
+      toast.error(
+        "Lost connection to server. Please refresh the page.",
+        toastConfig
+      );
       setIsRunning(false);
     });
 
@@ -280,7 +286,10 @@ const App = () => {
           <span></span>
         </div>
         <div className={`navbar-links ${isMenuOpen ? "active" : ""}`}>
-          <a href="/about" className="navbar-link">
+          <a
+            href="https://github.com/Pabitra-Sahoo/CodeConnect/tree/master"
+            className="navbar-link"
+          >
             <svg
               width="18"
               height="18"
@@ -425,7 +434,7 @@ const App = () => {
                 value={roomId}
                 onChange={(e) => setRoomId(e.target.value)}
                 onKeyDown={(e) => {
-                  if (e.key === 'Enter' && roomId && userName) {
+                  if (e.key === "Enter" && roomId && userName) {
                     joinRoom();
                   }
                 }}
@@ -458,7 +467,7 @@ const App = () => {
                 value={userName}
                 onChange={(e) => setUserName(e.target.value)}
                 onKeyDown={(e) => {
-                  if (e.key === 'Enter' && roomId && userName) {
+                  if (e.key === "Enter" && roomId && userName) {
                     joinRoom();
                   }
                 }}
@@ -511,10 +520,17 @@ const App = () => {
     <div className="editor-container">
       <Toaster {...toastConfig} />
       <div className="editor-header">
-        <div className="logo" onClick={() => {
-          setWordWrap(!wordWrap);
-          toast.success(`Word wrap ${!wordWrap ? 'enabled' : 'disabled'}`, toastConfig);
-        }} style={{ cursor: 'pointer' }}>
+        <div
+          className="logo"
+          onClick={() => {
+            setWordWrap(!wordWrap);
+            toast.success(
+              `Word wrap ${!wordWrap ? "enabled" : "disabled"}`,
+              toastConfig
+            );
+          }}
+          style={{ cursor: "pointer" }}
+        >
           <svg
             width="32"
             height="32"
@@ -783,7 +799,7 @@ const App = () => {
           options={{
             minimap: { enabled: false },
             fontSize: 14,
-            wordWrap: wordWrap ? 'on' : 'off'
+            wordWrap: wordWrap ? "on" : "off",
           }}
         />
         <div className="terminal-section">
